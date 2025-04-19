@@ -1,2 +1,0 @@
-# lokalassignment
-Job Listing App
